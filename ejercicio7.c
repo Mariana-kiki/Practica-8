@@ -1,3 +1,6 @@
+/*Gutiérres Acosta Mariana
+Práctica 8 ejercicio 7*/
+
 #include <stdio.h>
 
 void main() 
